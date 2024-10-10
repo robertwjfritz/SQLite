@@ -1,2 +1,4 @@
 -- SQLite
-SELECT * FROM people;
+SELECT * FROM people
+WHERE city = 'Los Angeles';
+
